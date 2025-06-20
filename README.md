@@ -89,6 +89,5 @@ This project is licensed under the GNU GENERAL PUBLIC LICENSE v3.0. See the [LIC
 ## Acknowledgments
 
 - This project was developed as part of the assessment for the [COMP0242 - Estimation and Control](https://www.ucl.ac.uk/module-catalogue/modules/estimation-and-control-COMP0242) module at University College London. 
-- It was a collaborative effort by myself, [@ethandsz](https://github.com/ethandsz), and [@lorenzouttini](https://github.com/lorenzouttini).
 - Special thanks to the teaching team for providing the simulation environment and guidance throughout the project.
 
